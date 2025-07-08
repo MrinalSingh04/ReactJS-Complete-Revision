@@ -4,6 +4,10 @@ A complete React.js revision repository covering all essential concepts, from ba
 
 ---
 
+ ⚠️ Work in Progress – Actively building with commits every alternate day.
+ 
+---
+
 ## 📚 Topics Covered
 
 - ⚛️ React Fundamentals (JSX, Components, Props, State)
