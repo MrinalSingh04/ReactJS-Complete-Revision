@@ -19,7 +19,6 @@ A complete React.js revision repository covering all essential concepts, from ba
 - 💅 Styling in React (CSS Modules, Tailwind, Styled-Components)
 - ⚙️ API Calls with Axios / Fetch
 - 📁 Folder Structure Best Practices
-- 🧪 Testing (Jest, React Testing Library)
 - 📂 Mini Projects and Hands-on Exercises
 
 ---
